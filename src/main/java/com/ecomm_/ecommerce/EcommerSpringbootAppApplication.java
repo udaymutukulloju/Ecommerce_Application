@@ -1,0 +1,13 @@
+package com.nareshit.ecommerce;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EcommerSpringbootAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EcommerSpringbootAppApplication.class, args);
+	}
+
+}
